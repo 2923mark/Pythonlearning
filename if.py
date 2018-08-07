@@ -1,3 +1,4 @@
+#adding a comment
 number = 333
 if number:
     print ("Number is defined")
