@@ -7,3 +7,6 @@ if number:
 text = "python"
 if text:
     print ("text is defined")
+
+
+    #addding jira 2234 changes
