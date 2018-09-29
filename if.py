@@ -10,3 +10,8 @@ if text:
 
 
     #addding jira 2234 changes
+msg = "hello
+print msg
+
+
+
